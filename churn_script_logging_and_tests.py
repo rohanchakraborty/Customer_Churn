@@ -152,8 +152,8 @@ def test_train_models(training_function):
         
         # Assertions to check that model files and evaluation plots are created
         assert os.path.exists('./models/logistic_model.pkl'), "Logistic model file not found"
-        assert os.path.exists('./models/rfc_model.pkl'), "Random Forest model file not found"
-        assert os.path.exists('./images/results/roc_curve_result.png'), "ROC curve result not found"
+        assert os.path.exists('./models/random_forest_model.pkl'), "Random Forest model file not found"
+        assert os.path.exists('./images/results/roc_curve.png'), "ROC curve result not found"
         
     except Exception as err:
         logging.error(f"test_train_models: FAILURE - Error during model training: {err}")
