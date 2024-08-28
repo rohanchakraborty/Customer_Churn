@@ -3,7 +3,7 @@
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
 
 ## Project Description
-Project Description
+
 G'day! Welcome to the Predicting Customer Churn project, where we're diving deep into the world of banking to figure out which customers might be heading for the door. In the fast-paced world of finance, keeping customers happy and sticking around is as important as a good barbie on a sunny day. Losing customers, or churn as we call it, can seriously dent a bank's bottom line. That's why we're rolling up our sleeves and using some top-notch data science to spot the signs of customer churn before it happens.
 
 This project is all about getting ahead of the game. We’re working with a dataset that includes a bunch of info about customers, and our mission is to use that data to predict who might be waving goodbye. The idea is simple: by knowing who’s at risk of leaving, the bank can take action to keep them around – like offering a sweet deal or improving the service they’re getting.
