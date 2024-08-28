@@ -37,7 +37,7 @@ Here’s how we’re cracking it:
 ## Running Files
 
 ### Dependencies
-
+```
 autopep8==1.5.7
 joblib==0.11
 matplotlib==2.1.0
@@ -46,7 +46,7 @@ pandas==0.23.3
 pylint==2.9.6
 scikit-learn==0.22
 seaborn==0.8.1
-
+```
 ```
 pip install -r requirements.txt
 ```
